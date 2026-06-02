@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# TP3 — Ciclo de vida, componentes dinámicos y slots
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto es una aplicación interactiva que simula un catálogo de productos estructurado de manera modular utilizando las características avanzadas de Vue 3 (Composition API).
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Requisitos de Instalación y Ejecución
+
+Seguí estos pasos para descargar, instalar y correr el proyecto de forma local:
+
+1. **Clonar o descargar el repositorio** generado por GitHub Classroom.
+2. Abrir la terminal dentro de la carpeta raíz del proyecto.
+3. Instalar las dependencias de Node corriendo el comando:
+   ```bash
+   npm install
